@@ -1,0 +1,59 @@
+#logo {
+
+    max-width: 200px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+
+#conteinerLogo {
+
+    width: 200px;
+    height: 180px;
+    top: 20px;
+
+}
+
+#containerForm {
+
+    top: 35px;
+    left: 600px;
+
+}
+
+#tituloPagina {
+
+    left: 600px;
+    top: -20px
+
+
+}
+
+#conteinerNavegacao {
+
+    height: 170vh;
+    width: 190vh;
+
+
+}
+
+#voltar {
+
+    left: -40px;
+    top: -40px;
+}
+
+#conteinerMenu {
+
+    width: 100%;
+    height: 200px;
+}
+
+#corpo {
+
+    left: 700px;
+    top: 20px;
+    width: 500px;
+    height: 1000px;
+
+}
